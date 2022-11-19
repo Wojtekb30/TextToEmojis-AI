@@ -1,0 +1,88 @@
+{"intents": [
+    {"tag": "moodsad",
+     "patterns": ["sad", "bad", "awful", "crying"],
+     "responses": [":cry: "]
+    },
+    {"tag": "city",
+     "patterns": ["city", "town", "metropolis", "cities", "tower", "towers", "building", "buildings"],
+     "responses": [":cityscape: "]
+    },
+    {"tag": "eat",
+     "patterns": ["plate", "eat", "consume", "restaurant", "bar"],
+     "responses": [":fork_knife_plate: "]
+    },
+    {"tag": "ignore",
+     "patterns": ["and", "or", "the", "could", "let's", "how", "to", "this", "that", "my", "mine", "your", "theirs", "after", "later", "am", "will", "did", "in", "out", "but", "on"],
+     "responses": [""]
+    },
+    {"tag": "me",
+     "patterns": ["I", "me", "we"],
+     "responses": ["I "]
+    },
+    {"tag": "you",
+     "patterns": ["you", "they", "them", "u"],
+     "responses": ["U "]
+    },
+    {"tag": "heart",
+     "patterns": ["heart", "love", "loving", "lovely"],
+     "responses": [":heart: "]
+    },
+    {"tag": "kiss",
+     "patterns": ["kiss", "kisses", "kissed"],
+     "responses": [":kissing_heart: "]
+    },
+    {"tag": "hug",
+     "patterns": ["hug", "cuddle", "cuddly", "cuddlish", "pet", "petting", "hugs"],
+     "responses": [":hugging: "]
+    },
+    {"tag": "moodangry",
+     "patterns": ["angry", "furious", "evil", "grumpy", "hate"],
+     "responses": [":angry: "]
+    },
+    {"tag": "left",
+     "patterns": ["left"],
+     "responses": [":arrow_left: "]
+    },
+    {"tag": "right",
+     "patterns": ["right"],
+     "responses": [":arrow_right: "]
+    },
+    {"tag": "up",
+     "patterns": ["up", "top", "high", "tall"],
+     "responses": [":arrow_up: "]
+    },
+    {"tag": "down",
+     "patterns": ["down", "low", "short"],
+     "responses": [":arrow_down: "]
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {"tag": "moodhappy",
+     "patterns": ["happy", "glad", "good", "great"],
+     "responses": [":grinning: "]
+    }
+]
+}
